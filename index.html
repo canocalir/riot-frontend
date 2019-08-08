@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="./style/main.css">
+    <title>Vienna Challengers Arena</title>
+</head>
+
+<body>
+    <div class="main">
+        <div class="top-banner">
+            <img class="logo-icon" src="./assets/icon-game-lol.png" alt="icon">
+        </div>
+        <h1 class="main-heading">
+            VIENNA CHALLENGERS ARENA
+        </h1>
+        <div class="tabs">
+            <section class="row">
+                <ul class="nav nav-tabs">
+                    <li id="game1" data-page="1" class="active"><a href="#tab-1">GAME 1</a></li>
+                    <li id="game2" data-page="2" class=""><a href="#tab-2">GAME 2</a></li>
+                </ul>
+                <div id="tab-content" class="tab-content">
+                    <div id="loading">
+                        <img src="./assets/loader.gif" alt="loader">
+                    </div>
+                </div>
+                <div class="line"></div>
+                <div id="tab-1" class="tab-pane active">
+                    <table>
+                        <tbody class="ajax-content">
+                            <div class="headings">
+                                <h3 class="sname"></h3>
+                                <h3 class="lname"></h3>
+                            </div>
+                            <div class="headwin">
+                                <h3 class="isVictory"></h3>
+                            </div>
+                        </tbody>
+                    </table>
+                    <table>
+                        <tbody class="ajax-content2" style="margin-top:478px">
+                            <div class="headings">
+                                <h3 class="sname2"></h3>
+                                <h3 class="lname2"></h3>
+                            </div>
+                            <div class="headwin">
+                                <h3 class="isDefeat"></h3>
+                            </div>
+                        </tbody>
+                    </table>
+                </div>
+            </section>
+        </div>
+    </div>
+    <div class="footer">© 2018 Riot Games, Inc. All rights reserved.</div>
+    </div>
+</body>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="./js/scripts.js"></script>
+
+</html>
