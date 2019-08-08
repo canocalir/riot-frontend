@@ -1,10 +1,12 @@
 # Riot Games - Frontend Engineer Test
 <br>
+
 ## What I Used<br>
 *Vanilla Javascript ES6<br>
 *Jquery in some places<br>
 *Got some tips for Ajax get request. Because mostly using `fetch` or `axios`<br>
 <br>
+
 ## Tested Devices<br>
 *1920x1080 Desktop<br>
 *Iphone X, Iphone 6/7/8, Samsung Galaxy S9, Huawei Mate 10 Pro<br>
