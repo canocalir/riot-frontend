@@ -4,7 +4,7 @@
 ## What I Used<br>
 *Vanilla Javascript ES6<br>
 *Jquery in some places<br>
-*Got some tips for Ajax get request. Because mostly using `fetch` or `axios`<br>
+*Got some tips online for Ajax get request. Because, I am mostly using `fetch` or `axios`<br>
 <br>
 
 ## Tested Devices<br>
