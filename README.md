@@ -1,6 +1,9 @@
 # Riot Games - Frontend Engineer Test
 <br>
 
+![riot-vanilla](https://user-images.githubusercontent.com/11324886/197901090-c35a30d0-e35c-4136-8769-3e01a7eae050.gif)
+
+
 ## What I Used<br>
 *Vanilla Javascript ES6<br>
 *Jquery in some places<br>
